@@ -1,4 +1,7 @@
-# Queue package
+# Queue package (ARCHIVE)
+
+**Please don't use this repository! It is just an archive and unmaintained. Use [this](https://github.com/indigophp/fuel-queue) instead.**
+
 
 Package to manage queues based on the well-known resque's php fork php-resque. Resque is a Redis-backed library for creating background job, placing them on multiple queues.
 
